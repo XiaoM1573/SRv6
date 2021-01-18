@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="okhttp-3.9.1_30137b28">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/okhttp/okhttp-3.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jersey-test-framework-core-2.27_7e745d02">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/jersey_test_framework_core/jersey-test-framework-core-2.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

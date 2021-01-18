@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bcpkix-jdk15on-1.59_d5c09ba4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/bcpkix_jdk15on/bcpkix-jdk15on-1.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

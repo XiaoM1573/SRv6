@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="servlet-api-2.5_8d0438dc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/servlet_api/servlet-api-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

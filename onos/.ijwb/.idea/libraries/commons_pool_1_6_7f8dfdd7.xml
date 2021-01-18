@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-pool-1.6_7f8dfdd7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/commons_pool/commons-pool-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

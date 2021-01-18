@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libprotobuf_java-hjar_a5307348">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/execroot/org_onosproject_onos/bazel-out/k8-fastbuild/bin/external/com_google_protobuf/libprotobuf_java-hjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

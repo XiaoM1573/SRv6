@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="biz.aQute.bndlib-4.1.0_1a0cd0b1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/bndlib/biz.aQute.bndlib-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

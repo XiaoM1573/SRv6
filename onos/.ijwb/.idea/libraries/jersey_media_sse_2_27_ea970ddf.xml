@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jersey-media-sse-2.27_ea970ddf">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/jersey_media_sse/jersey-media-sse-2.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

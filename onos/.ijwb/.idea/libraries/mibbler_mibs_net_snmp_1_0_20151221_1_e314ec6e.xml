@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mibbler-mibs-net-snmp-1.0-20151221.1_e314ec6e">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/mibs_net_snmp/mibbler-mibs-net-snmp-1.0-20151221.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

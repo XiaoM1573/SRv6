@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.osgi.util.promise-1.1.1_97f10bd8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/org_osgi_util_promise/org.osgi.util.promise-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

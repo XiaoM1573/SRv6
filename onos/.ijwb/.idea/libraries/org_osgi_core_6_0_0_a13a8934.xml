@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.osgi.core-6.0.0_a13a8934">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/osgi_core/org.osgi.core-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

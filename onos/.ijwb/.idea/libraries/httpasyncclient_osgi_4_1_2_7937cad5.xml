@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpasyncclient-osgi-4.1.2_7937cad5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/org_apache_httpcomponents_httpasyncclient_osgi/httpasyncclient-osgi-4.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

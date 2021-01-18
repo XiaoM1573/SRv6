@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jersey-server-2.27_f891f0ae">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/jersey_server/jersey-server-2.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

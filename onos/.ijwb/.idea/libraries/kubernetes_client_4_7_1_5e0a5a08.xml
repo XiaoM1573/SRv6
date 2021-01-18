@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kubernetes-client-4.7.1_5e0a5a08">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/k8s_client/kubernetes-client-4.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

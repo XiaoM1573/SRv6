@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libonos-gui-jar-native-hjar_e7e412e7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/execroot/org_onosproject_onos/bazel-out/k8-fastbuild/bin/web/gui/libonos-gui-jar-native-hjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

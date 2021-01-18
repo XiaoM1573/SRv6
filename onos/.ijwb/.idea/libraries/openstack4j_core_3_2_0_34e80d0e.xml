@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openstack4j-core-3.2.0_34e80d0e">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/openstack4j_core/openstack4j-core-3.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

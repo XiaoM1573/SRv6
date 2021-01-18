@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libonos-drivers-microsemi-ea1000-native-hjar_b2bfd3b5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/execroot/org_onosproject_onos/bazel-out/k8-fastbuild/bin/drivers/microsemi/ea1000/libonos-drivers-microsemi-ea1000-native-hjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

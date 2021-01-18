@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="netty-transport-native-epoll-4.1.35.Final_47a11581">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/io_netty_netty_transport_native_epoll/netty-transport-native-epoll-4.1.35.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

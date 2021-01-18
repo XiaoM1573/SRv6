@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="netty-resolver-4.1.35.Final_f0031ef5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/io_netty_netty_resolver/netty-resolver-4.1.35.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

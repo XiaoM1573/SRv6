@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackson-dataformat-yaml-2.10.2_1e2132d5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/jackson_dataformat_yaml/jackson-dataformat-yaml-2.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

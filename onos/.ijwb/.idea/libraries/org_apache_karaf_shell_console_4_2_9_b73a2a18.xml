@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.karaf.shell.console-4.2.9_b73a2a18">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/org_apache_karaf_shell_console/org.apache.karaf.shell.console-4.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

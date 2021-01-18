@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="snakeyaml-1.25_b1490aa3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/snakeyaml/snakeyaml-1.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

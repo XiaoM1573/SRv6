@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libonos-providers-netconf-device-native-hjar_a98b3aea">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/execroot/org_onosproject_onos/bazel-out/k8-fastbuild/bin/providers/netconf/device/libonos-providers-netconf-device-native-hjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hamcrest-optional-1.1.0_c4855238">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/hamcrest_optional/hamcrest-optional-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

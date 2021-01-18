@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libidn-1.15_30f6151e">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/gnu_idn/libidn-1.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

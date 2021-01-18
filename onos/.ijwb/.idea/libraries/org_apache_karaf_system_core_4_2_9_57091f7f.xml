@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.karaf.system.core-4.2.9_57091f7f">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/org_apache_karaf_system_core/org.apache.karaf.system.core-4.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jetty-io-9.4.11.v20180605_48d247eb">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/jetty_io/jetty-io-9.4.11.v20180605.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

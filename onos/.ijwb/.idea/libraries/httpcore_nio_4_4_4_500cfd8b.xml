@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpcore-nio-4.4.4_500cfd8b">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_xiaom/e68a64bc3cfed5bfac254a54be8285a3/external/org_apache_httpcomponents_httpcore_nio/httpcore-nio-4.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
